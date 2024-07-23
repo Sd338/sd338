@@ -1,11 +1,10 @@
-<img src="https://avatars.githubusercontent.com/u/136293245?v=4" alt="Samanta Das" style="width:100%; max-width:400px;"/>
 
 ### Hi there 👋, I'm Samanta Das
-#### AI Developer | Machine Learning Developer | Full Stack Developer | Passionate About Crafting Intelligent Systems
+##### AI Developer | Machine Learning Developer | Full Stack Developer | Passionate About Crafting Intelligent Systems
 
-I’m Samanta Das, a Python developer focused on AI, machine learning, and full-stack development. I’m passionate about solving algorithmic challenges and building intelligent systems. My goal is to excel in AI development and create scalable web applications. I’m committed to continuous learning and problem-solving.
+👩‍💻I’m Samanta Das, a Python developer focused on AI, machine learning, and full-stack development. I’m passionate about solving algorithmic challenges and building intelligent systems. My goal is to excel in AI development and create scalable web applications. I’m committed to continuous learning and problem-solving.
 
-Skills: Python / Arrays / Algorithms / Stack / Django / Neural Networks / NLP / Backend / PyTorch / TensorFlow / Sorting / API / Databases
+🛠️ Skills: Python / Arrays / Algorithms / Stack / Django / Neural Networks / NLP / Backend / PyTorch / TensorFlow / Sorting / API / Databases
 
 - 🔭 I’m currently working on Building advanced AI models and tools.
 - 🌱 I’m currently learning Neural networks and advanced machine learning techniques.

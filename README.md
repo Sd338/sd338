@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on AI projects, Python development, and innovative tech solutions.
 - 🤔 I’m looking for help with Improving my understanding of deep learning frameworks, algorithms, and Python.
 - 💬 Ask me about Python, AI models, and backend development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samanta-das/)
+- 📫 How to reach me: [LinkedIn]()
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love combining AI with creative projects.
 

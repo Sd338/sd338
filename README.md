@@ -1,29 +1,66 @@
-### Hi there 👋, I'm Samanta Das
-##### AI Developer | Machine Learning Developer | Full Stack Developer | Passionate About Crafting Intelligent Systems
+# Hi there 👋, I'm *Samanta Das*
+### 🚀 AI Developer | Machine Learning Enthusiast | Full Stack Developer | Creative Tech Innovator
 
-👩‍💻I’m Samanta Das, a Python developer focused on AI, machine learning, and full-stack development. I’m passionate about solving algorithmic challenges and building intelligent systems. My goal is to excel in AI development and create scalable web applications. I’m committed to continuous learning and problem-solving.
+🌟 Welcome to my GitHub profile! I'm passionate about creating intelligent systems, solving algorithmic challenges, and building scalable web applications. My mission? To push the boundaries of technology and innovation.
 
-🛠️ Skills: Python / Arrays / Algorithms / Stack / Django / Neural Networks / NLP / Backend / PyTorch / TensorFlow / Sorting / API / Databases
+---
 
-- 🔭 I’m currently working on Building advanced AI models and tools.
-- 🌱 I’m currently learning Neural networks and advanced machine learning techniques.
-- 👯 I’m looking to collaborate on AI projects, Python development, and innovative tech solutions.
-- 🤔 I’m looking for help with Improving my understanding of deep learning frameworks, algorithms, and Python.
-- 💬 Ask me about Python, AI models, and backend development.
-- 📫 How to reach me: [LinkedIn]()
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love combining AI with creative projects.
+### 💡 *About Me*
+- 👩‍💻 I’m *Samanta Das*, a Python developer with a focus on AI, machine learning, and full-stack development.
+- 🔭 *Currently working on*: Advanced AI models and tools.
+- 🌱 *Learning*: Neural networks and cutting-edge machine learning techniques.
+- 👯 *Looking to collaborate on*: AI projects, Python development, and innovative tech solutions.
+- 🤔 *Need help with*: Deep learning frameworks, advanced algorithms, and Python optimization.
+- 💬 *Ask me about*: Python, AI, backend development, and scalable architectures.
+- ⚡ *Fun fact*: I love combining AI with creative projects and turning wild ideas into reality.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sd338)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/samanta.das.9619/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/samanta0711/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/404not_found_7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/sd338/)
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+### 🛠 *My Skillset*
+| *Category*       | *Skills*                                                                 |
+|---------------------|---------------------------------------------------------------------------|
+| *Languages*       | Python, JavaScript                                                       |
+| *Libraries & Frameworks* | PyTorch, TensorFlow, Django, Flask, NumPy, Pandas                            |
+| *Machine Learning*| Neural Networks, NLP, AI Model Development                               |
+| *Data Structures* | Arrays, Stacks, Sorting, Algorithms                                      |
+| *Other Skills*    | Backend Development, API Integration, Databases, Full-Stack Web Apps    |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sd338)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sd338)](https://github.com/anuraghazra/github-readme-stats)
+### 🌐 *Connect With Me*
+Feel free to reach out or connect on these platforms:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sd338&show_icons=true)  
+[<img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40"/>](https://github.com/sd338)
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40"/>](#)
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40"/>](https://www.instagram.com/samanta0711/)
+[<img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" width="40"/>](https://twitter.com/404not_found_7)
+[<img src="https://img.icons8.com/fluent/48/000000/facebook.png" alt="Facebook" width="40"/>](https://www.facebook.com/samanta.das.9619/)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sd338/contributions?format=svg&private=false)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sd338)  
+### 🏆 *Achievements*
+[![trophy](https://github-profile-trophy.vercel.app/?username=sd338&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 *GitHub Stats*
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sd338&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+<img src="https://streak-stats.demolab.com?user=sd338&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+### 🌟 *Top Languages*
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd338&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🎨 *Dynamic Badge*
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sd338/contributions?format=svg&private=false)
+
+---
+
+Thanks for visiting my profile! ✨ Let's innovate and create together!
